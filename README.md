@@ -6,8 +6,14 @@
 ## Update renamer.py
 *add your credentials*
 ```python
-aws_access_key_id = "your-access-key-here"
-aws_secret_access_key = "your-secret-key-here"
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+SOURCE_BUCKET=
+DEST_BUCKET=
+DELETE_BUCKET=
+REGION_NAME=
+WORKERS=
+LOG_LEVEL=
 ```
 *choose the correct bucket(!)*
 ```python
